@@ -44,4 +44,6 @@ Ultimately, ridge regularization performed the best so far.
 
 I summarized the process of acquiring and modeling this data in [this talk](Steam_Linear_Regression.pdf).
 
+It seems likely that the negative coefficients for oculus and vr user tags are due to the relatively low adoption of these types of games so far. There is still a high monetary barrier to entry for these games due to the cost of vr systems, particularly the oculus rift, and these systems are still relatively new for widespread adoption.
+
 
