@@ -42,3 +42,6 @@ Linear regression models were made using ordinary least squares, select k-best f
 Ultimately, ridge regularization performed the best so far.
 
 
+I summarized the process of acquiring and modeling this data in [this talk](Steam_Linear_Regression.pdf).
+
+
