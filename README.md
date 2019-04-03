@@ -35,7 +35,7 @@ Release Date
 
 # Linear regression:
 
-I attempted to predict peak concurrent users scaped from SteamDB using these independent variables.
+I attempted to predict peak concurrent users scraped from SteamDB using these independent variables.
 
 Linear regression models were made using ordinary least squares, select k-best features, and both lasso and ridge regularization.
 
